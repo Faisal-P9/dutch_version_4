@@ -5166,7 +5166,7 @@ body {
     .navbar__big li a {
       text-decoration: none;
       color: #000;
-      font-size: 2rem;
+      font-size: 1.8rem;
       font-weight: bold; }
       @media (min-width: 4000px) and (max-width: 8500px) and (min-height: 700px) and (max-height: 4500px) {
         .navbar__big li a {
@@ -5176,7 +5176,7 @@ body {
           font-size: 2.5rem; } }
       @media (min-width: 2100px) and (max-width: 2499px) and (min-height: 700px) and (max-height: 4500px) {
         .navbar__big li a {
-          font-size: 2.5rem; } }
+          font-size: 2.2rem; } }
   .navbar__mailtoBtn {
     background-color: #000000;
     color: #fff;
