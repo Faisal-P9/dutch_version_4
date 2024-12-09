@@ -5129,8 +5129,8 @@ body {
       justify-content: space-evenly; } }
   @media (min-width: 2100px) and (max-width: 2499px) and (min-height: 700px) and (max-height: 4500px) {
     .navbar {
-      padding: 1.8rem 4rem;
-      justify-content: space-evenly; } }
+      padding: 1.8rem 7rem;
+      justify-content: space-between; } }
   @media (max-width: 48em) {
     .navbar {
       padding: 1.4rem 4rem; } }
@@ -5159,7 +5159,7 @@ body {
         gap: 6rem; } }
     @media (min-width: 2100px) and (max-width: 2499px) and (min-height: 700px) and (max-height: 4500px) {
       .navbar__big {
-        gap: 6rem; } }
+        gap: 4rem; } }
     @media (max-width: 75em) {
       .navbar__big {
         display: none; } }
